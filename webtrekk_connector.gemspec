@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
     s.email         = 'knud.moeller@berlinonline.de'
     s.files         = ['lib/webtrekk_connector.rb']
     s.license       = 'MIT'
-    s.homepage      = 'https://rubygems.org/gems/webtrekk_connector'
+    s.homepage      = 'https://github.com/berlinonline/webtrekk_connector'
 end
