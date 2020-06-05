@@ -1,5 +1,11 @@
 # Changelog
 
+## Development
+
+## 0.0.4
+
+- the project now has a logo
+
 ## 0.0.3
 
 - fix version number, argh
