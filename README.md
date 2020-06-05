@@ -1,5 +1,7 @@
 # Webtrekk Analytics Connector
 
+![logo for "daten.berlin.de Usage Statistics" dataset](logo/webtrekk_connector_logo_small.png)
+
 `webtrekk_connector` is a simple Ruby wrapper for the [Webtrekk/Mapp](https://mapp.com/mapp-cloud/mapp-intelligence/) Analytics API (see [https://support.webtrekk.com/hc/de/articles/115001497529-JSON-RPC-API](https://support.webtrekk.com/hc/de/articles/115001497529-JSON-RPC-API)).
 
 ## Installation
